@@ -1,0 +1,5 @@
+spotdl
+Flask
+gunicorn
+requests
+ytmusicapi
